@@ -1,5 +1,9 @@
 class Main {
   public static void main(String[] args) {
-    System.out.println("Hello world!");
+    // HW 2: Chocolate Chip Cookie
+    int numberChocolateChips;
+    int cookieWidth;
+    int cookieTemperature;
+    String cookieSoftness;
   }
 }
